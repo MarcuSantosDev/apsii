@@ -1,0 +1,14 @@
+## RODAR EXERCÍCIO
+
+1. Clonar o repositório:
+
+git clone <URL_DO_SEU_REPOSITORIO>
+cd apsii
+
+2. Compilar os arquivos Java:
+
+javac -d bin src\aula3\exercicio2\*.java
+
+3.Rodar o programa:
+
+java -cp bin aula3/exercicio2/Main
