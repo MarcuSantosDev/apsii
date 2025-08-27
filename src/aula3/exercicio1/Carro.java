@@ -1,4 +1,4 @@
-package aula3.exemplo1;
+package aula3.exercicio1;
 
 public class Carro extends Veiculo {
   private int numPortas;

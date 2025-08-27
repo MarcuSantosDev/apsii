@@ -1,4 +1,4 @@
-package aula3.exemplo2;
+package aula3.exercicio2;
 
 public class Losango implements FiguraGeometrica {
   private double diagonal1;

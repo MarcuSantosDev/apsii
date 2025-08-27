@@ -1,4 +1,4 @@
-package aula3.exemplo2;
+package aula3.exercicio2;
 
 public class Triangulo implements FiguraGeometrica {
   private double base;
