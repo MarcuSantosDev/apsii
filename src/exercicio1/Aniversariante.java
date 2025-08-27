@@ -1,3 +1,5 @@
+package exercicio1;
+
 public class Aniversariante {
   private String nome;
   private DataAniversario data;

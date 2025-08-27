@@ -1,3 +1,5 @@
+package exercicio1;
+
 import java.util.List;
 
 public interface AgendaDeAniversarios {
