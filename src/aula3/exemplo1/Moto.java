@@ -1,4 +1,4 @@
-package aula3;
+package aula3.exemplo1;
 
 public class Moto extends Veiculo {
   private int cilindradas;
