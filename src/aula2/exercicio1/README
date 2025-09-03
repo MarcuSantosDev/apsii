@@ -13,4 +13,4 @@ javac -d bin src\exercicio1\*.java
 
 3.Rodar o programa:
 
-java -cp bin exercicio1/Main
+java -cp bin aula2/exercicio1/Main

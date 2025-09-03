@@ -1,4 +1,4 @@
-package exercicio1;
+package aula2.exercicio1;
 
 public class Aniversariante {
   private String nome;
