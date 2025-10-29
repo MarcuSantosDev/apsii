@@ -1,0 +1,14 @@
+## 🦆 RODAR EXERCÍCIO — Padrão Strategy (Simulador de Patos)
+
+1. Clonar o repositório:
+
+git clone <URL_DO_SEU_REPOSITORIO>
+cd apsii
+
+2. Compilar os arquivos Java:
+
+javac -d bin src/implementacao_codigo_pato/\*.java
+
+3.Rodar o programa:
+
+java -cp bin implementacao_codigo_pato.MiniDuckSimulator
