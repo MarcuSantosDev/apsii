@@ -1,0 +1,20 @@
+## SOBRE O PROJETO
+
+Este projeto é uma implementação de exemplo do **padrão de projeto Abstract Factory** em Java, inspirado no exercício do livro _Use a Cabeça: Padrões de Projeto_.
+
+O sistema permite criar pizzas de diferentes **regiões** (Nova York e Chicago) e diferentes **sabores** (Queijo, Pepperoni, Calabresa), aplicando o padrão Abstract Factory para gerar os ingredientes corretos de cada região.
+
+## RODAR EXERCÍCIO
+
+1. Clonar o repositório:
+
+git clone <URL_DO_SEU_REPOSITORIO>
+cd apsii
+
+2. Compilar os arquivos Java:
+
+javac -d bin src\fabrica_ingredientes\*.java
+
+3.Rodar o programa:
+
+java -cp bin fabrica_ingredientes/Main
